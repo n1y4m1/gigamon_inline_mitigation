@@ -153,7 +153,7 @@ def update_rules(cluster_id):
                 used_rule_ids = set(drop_ips.values())
 
                 # Load IPs from CSV file
-                ips = load_ips_from_file('<Blacklist File>.csv')
+                ips = load_ips_from_file('<Blacklist_File>.csv')
                 ips_set = set(ips)
 
                 # Remove rules for IPs that are no longer in the file
