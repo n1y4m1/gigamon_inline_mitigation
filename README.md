@@ -41,7 +41,7 @@
   - **PASSWORD**
 
   4. Create the necessary files:
-  - `<Blacklist File>.csv`: File containing the IP addresses to be blocked.
+  - `<Blacklist_File>.csv`: File containing the IP addresses to be blocked.
   - `<FM_Nodes_File>.txt`: File containing the IDs of the GigaVUE-FM clusters, one per line.
 
 ## Usage
