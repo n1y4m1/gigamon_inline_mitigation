@@ -27,9 +27,9 @@
 ## Installation
   1. Clone the repository:
 
-  `git clone https://github.com/your_username/gigamon-inline-map-rule-manager.git`
+  `git clone https://github.com/n1y4m1/gigamon_inline_mitigation`
 
-  `cd gigamon-inline-map-rule-manager`
+  `cd gigamon_inline_mitigation`
 
   2. Install the dependencies:
 
@@ -47,7 +47,7 @@
 ## Usage
   Run the script:
 
-  `python3 script.py`
+  `python3 mitigation.py`
   
 The script will start and update the IP block rules every 60 seconds.
 
